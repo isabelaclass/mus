@@ -1,2 +1,18 @@
-# MusicAPP
-Este projeto foi criado para a disciplina de Desenvolvimento de Software no 2º Período do curso de Engenharia de Software na Universidade Positivo.
+# MusicApp 
+Repository created to save the project develped to software development to Software Engineering degree.
+
+## Author
+
+- [@isabelaclass](https://github.com/isabelaclass)
+
+
+## Learnings
+
+- Java
+- Packages
+- Hibernate
+- EntityFramework
+  
+## Tech
+
+**Back-end:** Java, Hibernate
